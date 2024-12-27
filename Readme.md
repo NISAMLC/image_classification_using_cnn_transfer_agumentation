@@ -1,7 +1,7 @@
 ## Image Classification Using CNN
 
 
-#### ![image.png](attachment:9df0ff60-1115-416f-8cac-c47efa038f39.png)
+#### ![Description](images/feature_inputing.png)
 
 ## Using Pretrained Model
 
