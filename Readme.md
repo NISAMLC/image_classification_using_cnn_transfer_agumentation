@@ -5,4 +5,9 @@
 
 ## Using Pretrained Model
 
-#### ![image.png](attachment:837b51e6-3a51-465d-8018-d81f1afbca73.png)
+#### ![Description](images/feature_ext.png)
+
+## Data Augmentation
+
+#### ![Description](images/augmentation.png)
+
